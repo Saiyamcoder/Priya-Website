@@ -1,0 +1,168 @@
+{
+  "site_settings": {
+    "general": {
+      "phone": "6355098131",
+      "email": "care@priyahospital.in",
+      "address": "Priya Multispeciality Hospital, Deesa, India — 385535",
+      "opd_hours": "Mon – Sat, 9:00 AM – 8:00 PM · Emergency 24/7",
+      "emergency_phone": "6355098131"
+    },
+    "hero_slides": [
+      {
+        "eyebrow": "Round-the-clock care",
+        "title": "Compassionate care, 24 hours a day.",
+        "body": "From routine check-ups to critical emergencies — our doors, and our doctors, never close.",
+        "ctaLabel": "Book an appointment",
+        "ctaTo": "/booking"
+      },
+      {
+        "eyebrow": "Meet the specialists",
+        "title": "Expert doctors across 15+ specialities.",
+        "body": "Board-certified consultants in cardiology, orthopedics, gynecology, pediatrics and more.",
+        "ctaLabel": "Meet our doctors",
+        "ctaTo": "/doctors"
+      },
+      {
+        "eyebrow": "Precision diagnostics",
+        "title": "Modern diagnostics, faster answers.",
+        "body": "In-house MRI, CT, digital X-ray and pathology — results you can trust, when you need them.",
+        "ctaLabel": "See our services",
+        "ctaTo": "/services"
+      }
+    ],
+    "home_content": {
+      "about_title": "A hospital built completely around you.",
+      "about_body": "We combine advanced medical technology with a genuinely human approach — because getting better should feel supported, not overwhelming."
+    },
+    "about_content": {
+      "title": "Two decades of caring for our community.",
+      "body": "Priya Multispeciality Hospital was founded on a simple belief — that world-class healthcare should feel personal. Today we serve tens of thousands of families every year across 15+ specialities.",
+      "story_title": "People before protocols.",
+      "story_body_1": "We invest in our people first. Every doctor, nurse and technician on our team is trained not only in the latest medical protocols, but in listening — because we believe the best diagnosis starts with a real conversation.",
+      "story_body_2": "From our operation theatres to our reception desk, everything we do is designed to make a difficult day feel a little easier for our patients and their families."
+    }
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Cardiology",
+      "description": "Preventive cardiology, angiography, angioplasty, and heart failure care.",
+      "icon": "Heart",
+      "color": "oklch(0.65 0.20 25)"
+    },
+    {
+      "id": 2,
+      "name": "Orthopedics",
+      "description": "Joint replacement, arthroscopy, spine care, and sports rehabilitation.",
+      "icon": "Bone",
+      "color": "oklch(0.55 0.14 240)"
+    },
+    {
+      "id": 3,
+      "name": "Pediatrics",
+      "description": "Well-baby check-ups, immunizations, neonatal care, and child specialists.",
+      "icon": "Baby",
+      "color": "oklch(0.62 0.17 140)"
+    },
+    {
+      "id": 4,
+      "name": "General Medicine",
+      "description": "Diabetes, hypertension, thyroid, and everyday adult healthcare.",
+      "icon": "Stethoscope",
+      "color": "oklch(0.55 0.16 262)"
+    },
+    {
+      "id": 5,
+      "name": "Neurology",
+      "description": "Stroke care, epilepsy, headache clinic, and neurological rehabilitation.",
+      "icon": "Brain",
+      "color": "oklch(0.55 0.18 300)"
+    },
+    {
+      "id": 6,
+      "name": "Ophthalmology",
+      "description": "Cataract surgery, LASIK, glaucoma, and comprehensive retina care.",
+      "icon": "Eye",
+      "color": "oklch(0.58 0.16 220)"
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "name": "Dr. Anjali Sharma",
+      "specialty": "Cardiology",
+      "qualification": "MD, DM (Cardiology), FSCAI",
+      "experience": "18 yrs",
+      "color": "oklch(0.65 0.20 25)",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Dr. Ramesh Iyer",
+      "specialty": "Orthopedics",
+      "qualification": "MS (Ortho), Fellowship in Joint Replacement",
+      "experience": "22 yrs",
+      "color": "oklch(0.55 0.14 240)",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Dr. Priya Nair",
+      "specialty": "Pediatrics",
+      "qualification": "MD (Pediatrics), Fellowship Neonatology",
+      "experience": "14 yrs",
+      "color": "oklch(0.62 0.17 140)",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Dr. Vikram Desai",
+      "specialty": "Neurology",
+      "qualification": "MD, DM (Neurology)",
+      "experience": "16 yrs",
+      "color": "oklch(0.55 0.18 300)",
+      "rating": 5
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Kavitha R.",
+      "department": "Cardiology",
+      "text": "The doctors here truly listen. My angioplasty went smoothly and recovery was faster than expected.",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "name": "Arjun M.",
+      "department": "Orthopedics",
+      "text": "Best knee replacement experience. The team was professional, caring and highly skilled.",
+      "rating": 4
+    }
+  ],
+  "milestones": [
+    {
+      "id": 1,
+      "year": "2003",
+      "title": "Founded",
+      "description": "Started as a small 3-doctor clinic in Deesa.",
+      "sort_order": 0
+    },
+    {
+      "id": 2,
+      "year": "2009",
+      "title": "Expanded",
+      "description": "Grew to 50 beds with dedicated OT and emergency unit.",
+      "sort_order": 1
+    },
+    {
+      "id": 3,
+      "year": "2015",
+      "title": "NABH Accredited",
+      "description": "Achieved national quality certification across all departments.",
+      "sort_order": 2
+    }
+  ],
+  "appointments": [],
+  "contact_messages": []
+}
